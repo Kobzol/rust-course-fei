@@ -1,2 +1,2 @@
-# Enumy
-Úlohy k procvičení práce s enumy.
+# Enums
+Exercises for working with enums.

@@ -1,2 +1,2 @@
-# Základy Rustu
-Jednoduché úlohy k procvičení základů Rustu.
+# Rust basics
+Simple tasks for exercising Rust basics.

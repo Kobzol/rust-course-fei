@@ -1,45 +1,49 @@
-# Kurz Rustu
-Tento repozitář obsahuje materiály ke kurzu Rustu, který probíhá na FEI VŠB-TUO během zimního semestru 2023/2024.
-K dispozici je také záznam všech lekcí kurzu na [YouTube](https://www.youtube.com/playlist?list=PLgoUJJFtqE9APcuG-kEYtjktk2ZHec5Rc).
+# Rust course
+This repository contains materials for a Rust course taught at [FEI VŠB-TUO](https://www.fei.vsb.cz/en/) during the
+winter semester 2023/2024.
 
-# Lekce
-1) Základy syntaxe
-   - [Záznam lekce](https://www.youtube.com/watch?v=eLJjocj80tw)
-   - [Úlohy](exercises/01)
+There are also recordings of the course lessons on [YouTube](https://www.youtube.com/playlist?list=PLgoUJJFtqE9APcuG-kEYtjktk2ZHec5Rc).
+
+> Note that the recordings are in the Czech language.
+
+# Lessons
+1) Syntax basics
+   - [Lesson recording](https://www.youtube.com/watch?v=eLJjocj80tw)
+   - [Exercises](exercises/01)
 2) Enums, ownership, pattern matching
-   - [Záznam lekce](https://www.youtube.com/watch?v=VLvwuI-Nw9s)
-   - [Úlohy](exercises/02)
+   - [Lesson recording](https://www.youtube.com/watch?v=VLvwuI-Nw9s)
+   - [Exercises](exercises/02)
 3) Borrowing, lifetimes
-   - [Záznam lekce](https://www.youtube.com/watch?v=0G-0pgQM8h0)
-4) Assembly interpret #1
-   - [Záznam lekce](https://www.youtube.com/watch?v=2RsHc4v9iRE)
+   - [Lesson recording](https://www.youtube.com/watch?v=0G-0pgQM8h0)
+4) Assembly interpreter #1
+   - [Lesson recording](https://www.youtube.com/watch?v=2RsHc4v9iRE)
    - [Assembly interpret, část 1](projects/assembly-interpret/01)
-5) Assembly interpret #2, stringy
-   - [Záznam lekce](https://www.youtube.com/watch?v=pcifjQ9ELeU)
+5) Assembly interpreter #2, strings
+   - [Lesson recording](https://www.youtube.com/watch?v=pcifjQ9ELeU)
    - [Assembly interpret, část 2](projects/assembly-interpret/02)
-6) Assembly interpret #3, polymorfismus, generické programování, traity
-   - [Záznam lekce](https://www.youtube.com/watch?v=4UrfQfJNqAk)
+6) Assembly interpreter #3, polymorphism, generic programming, traits
+   - [Lesson recording](https://www.youtube.com/watch?v=4UrfQfJNqAk)
    - [Assembly interpret, část 3](projects/assembly-interpret/03)
 
-# Materiály
+# Materials
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
-  - Hlavní výuková knížka o Rustu
+  - Main introductory Rust book
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/hello.html)
-  - Ukázky kódu Rustu
+  - Rust code samples
 - [Rustlings](https://github.com/rust-lang/rustlings)
-  - Sada úloh k procvičení Rustu
+  - A set of exercises to practice Rust
 - [Cheatsheet](https://cheats.rs/)
-  - Stránka obsahující rozcestník užitečných informací o Rustu
-  - Obsahuje také ukázku veškeré syntaxe Rustu
+  - A cheatsheet containing links to many useful Rust resources
+  - Also contains the complete Rust syntax
 
-# Kurzy
+# Courses
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
-  - 5-denní intenzivní kurz Rustu od Googlu
+  - 5 day intensive Rust course from Google
 - [101-rs](https://101-rs.tweede.golf/)
-  - Univerzitní kurz Rustu
+  - University Rust course
 
-# Komunita
+# Community
 - [This Week in Rust](https://this-week-in-rust.org/)
-  - Týdenní newsletter s novinkami o Rustu
+  - Weekly newsletter with Rust news
 - [Rustacean station](https://rustacean-station.org/)
-  - Podcast o Rustu a různých projektech, které Rust využívají
+  - Podcast about Rust and various projects that use it

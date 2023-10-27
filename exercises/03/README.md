@@ -1,2 +1,2 @@
-# Stringy a lifetimes
-Úlohy k procvičení práce s řetězci a lifetimy.
+# Strings and lifetimes
+Exercises for working with references, borrowing, lifetimes and strings.

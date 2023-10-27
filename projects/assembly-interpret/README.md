@@ -1,2 +1,3 @@
-# Assembly interpret
-Jednoduchý interpret assembler jazyka v Rustu. Jednotlivé složky obsahují postupně se rozšiřující části projektu.
+# Assembly interpreter
+Simple assembly interpreter written v Rust. The individual directories contain increasingly complete stages of the
+interpreter.
