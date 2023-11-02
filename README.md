@@ -17,13 +17,18 @@ There are also recordings of the course lessons on [YouTube](https://www.youtube
    - [Lesson recording](https://www.youtube.com/watch?v=0G-0pgQM8h0)
 4) Assembly interpreter #1
    - [Lesson recording](https://www.youtube.com/watch?v=2RsHc4v9iRE)
-   - [Assembly interpret, část 1](projects/assembly-interpret/01)
+   - [Assembly interpreter, part 1](projects/assembly-interpret/01)
 5) Assembly interpreter #2, strings
    - [Lesson recording](https://www.youtube.com/watch?v=pcifjQ9ELeU)
-   - [Assembly interpret, část 2](projects/assembly-interpret/02)
+   - [Assembly interpreter, part 2](projects/assembly-interpret/02)
+   - [Exercises](exercises/03)
 6) Assembly interpreter #3, polymorphism, generic programming, traits
    - [Lesson recording](https://www.youtube.com/watch?v=4UrfQfJNqAk)
-   - [Assembly interpret, část 3](projects/assembly-interpret/03)
+   - [Assembly interpreter, part 3](projects/assembly-interpret/03)
+7) Assembly interpreter #4, hashmaps, macros, iterators
+   - [Lesson recording](https://www.youtube.com/watch?v=CneaB0Qa374)
+   - [Assembly interpreter, part 4](projects/assembly-interpret/04)
+   - [Exercises](exercises/04)
 
 # Materials
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
