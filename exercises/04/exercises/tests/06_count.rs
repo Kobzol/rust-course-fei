@@ -2,7 +2,7 @@
 
 use std::collections::HashMap;
 
-// Implement a function called `cound`, which will receive a slice of strings, and it will return
+// Implement a function called `count`, which will receive a slice of strings, and it will return
 // a hash map that will count the number of occurrences of each string. Try to avoid allocating
 // any strings in the function.
 // Take a look at the `HashMap::entry` API.
