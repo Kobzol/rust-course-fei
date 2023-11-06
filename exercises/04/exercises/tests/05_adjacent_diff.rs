@@ -1,9 +1,8 @@
 //! Run this file with `cargo test --test 05_adjacent_diff`.
 
-// Implement a struct called `CumulativeSum`, which will be generic over two types - a value type
-// and an iterator over these value types. `CumulativeSum` will itself serve as an iterator, which
-// will return a cumulative sum of the items from the input iterator.
-// E.g. `CumulativeSum::new(vec![1, 2, 3])` will iterate `1`, `3`, and `6`.
+// Implement a function called `adjacent_diff`, which will receive a slice of numbers, and it will
+// return an Iterator over the differences of adjacent numbers.
+// E.g. `adjacent_diff(&[1, 2, 4, 1])` will iterate `1`, `2`, and `-3`.
 
 /// Below you can find a set of unit tests.
 #[cfg(test)]

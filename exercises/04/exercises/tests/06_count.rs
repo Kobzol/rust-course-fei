@@ -2,10 +2,9 @@
 
 use std::collections::HashMap;
 
-// Implement a struct called `CumulativeSum`, which will be generic over two types - a value type
-// and an iterator over these value types. `CumulativeSum` will itself serve as an iterator, which
-// will return a cumulative sum of the items from the input iterator.
-// Try to only use iterators and no loops.
+// Implement a function called `cound`, which will receive a slice of strings, and it will return
+// a hash map that will count the number of occurrences of each string. Try to avoid allocating
+// any strings in the function.
 // Take a look at the `HashMap::entry` API.
 fn count<'a>(items: &[&'a str]) -> HashMap<&'a str, u64> {
 }
