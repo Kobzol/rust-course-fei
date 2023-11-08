@@ -29,6 +29,9 @@ There are also recordings of the course lessons on [YouTube](https://www.youtube
    - [Lesson recording](https://www.youtube.com/watch?v=CneaB0Qa374)
    - [Assembly interpreter, part 4](projects/assembly-interpret/04)
    - [Exercises](exercises/04)
+8) Shell interpreter
+    - [Lesson recording](https://www.youtube.com/watch?v=FQuyXAldPrI)
+    - [Shell interpreter](projects/shell-interpret)
 
 # Materials
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
