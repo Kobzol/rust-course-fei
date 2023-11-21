@@ -32,6 +32,9 @@ There are also recordings of the course lessons on [YouTube](https://www.youtube
 8) Shell interpreter
     - [Lesson recording](https://www.youtube.com/watch?v=FQuyXAldPrI)
     - [Shell interpreter](projects/shell-interpret)
+9) Network chat (TCP/IP communication, message (de)serialization)
+    - [Lesson recording](https://www.youtube.com/watch?v=KVlrAepesMo)
+    - [Shell interpreter](projects/network-chat/01)
 
 # Materials
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
