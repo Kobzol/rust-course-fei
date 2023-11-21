@@ -35,6 +35,9 @@ There are also recordings of the course lessons on [YouTube](https://www.youtube
 9) Network chat (TCP/IP communication, message (de)serialization)
     - [Lesson recording](https://www.youtube.com/watch?v=KVlrAepesMo)
     - [Shell interpreter](projects/network-chat/01)
+10) Network chat (threads, reference-counting, synchronization)
+    - [Lesson recording](https://www.youtube.com/watch?v=OduKSTpzwUM)
+    - [Shell interpreter](projects/network-chat/02)
 
 # Materials
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
