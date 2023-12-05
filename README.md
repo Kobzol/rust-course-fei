@@ -41,6 +41,9 @@ There are also recordings of the course lessons on [YouTube](https://www.youtube
 11) Network chat (non-blocking operations, event loop)
     - [Lesson recording](https://www.youtube.com/watch?v=cNQMGrzZhKs)
     - [Network chat](projects/network-chat/03)
+12) Network chat (async/await, pinning)
+    - [Lesson recording](https://www.youtube.com/watch?v=z49Ek7BOy50)
+    - [Network chat](projects/network-chat/04)
 
 # Materials
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
