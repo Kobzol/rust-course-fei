@@ -44,6 +44,8 @@ There are also recordings of the course lessons on [YouTube](https://www.youtube
 12) Network chat (async/await, pinning)
     - [Lesson recording](https://www.youtube.com/watch?v=z49Ek7BOy50)
     - [Network chat](projects/network-chat/04)
+13) Advent of Code, [open-source contribution](https://github.com/rust-lang/glob/pull/135)
+    - [Lesson recording](https://www.youtube.com/watch?v=N5LlZ2L1Q3Y)
 
 # Materials
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
