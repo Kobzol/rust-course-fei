@@ -11,10 +11,9 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Slides](lessons/01/slides.pdf)
     - [Exercises](lessons/01/exercises)
 
-2. Enums, ownership, pattern matching
-
-- [Lesson recording](https://www.youtube.com/watch?v=VLvwuI-Nw9s)
-- [Exercises](exercises/02)
+2. Structs, enums, pattern matching
+    - [Lesson recording](https://www.youtube.com/watch?v=oDvjXaP-2pU&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=2)
+    - [Exercises](lessons/02/exercises)
 
 3) Borrowing, lifetimes
 
