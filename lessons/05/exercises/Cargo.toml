@@ -1,0 +1,11 @@
+[package]
+name = "week05"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[dev-dependencies]
+insta = { version = "1.40.0", default-features = false }

@@ -23,11 +23,9 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Lesson recording](https://www.youtube.com/watch?v=IY4ejueecdQ&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=4)
     - [Exercises](lessons/04/exercises)
 
-5) Assembly interpreter #2, strings
-
-- [Lesson recording](https://www.youtube.com/watch?v=pcifjQ9ELeU)
-- [Assembly interpreter, part 2](projects/assembly-interpret/02)
-- [Exercises](exercises/03)
+5. Smart pointers, interior mutability, closures
+    - [Lesson recording](https://www.youtube.com/watch?v=lGKSYne5DzM&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=5)
+    - [Exercises](lessons/05/exercises)
 
 6) Assembly interpreter #3, polymorphism, generic programming, traits
 
