@@ -39,10 +39,9 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Lesson recording](https://www.youtube.com/watch?v=6vZ5-1JrgLg&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=8)
     - [Exercises](lessons/08/exercises)
 
-9) Network chat (TCP/IP communication, message (de)serialization)
-
-- [Lesson recording](https://www.youtube.com/watch?v=KVlrAepesMo)
-- [Network chat](projects/network-chat/01)
+9. Networking, nonblocking I/O, epoll event loop
+    - [Lesson recording](https://www.youtube.com/watch?v=bnqtTknkpNo&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=9)
+    - [Exercises](lessons/09/exercises)
 
 10) Network chat (threads, reference-counting, synchronization)
 
