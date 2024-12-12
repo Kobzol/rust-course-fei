@@ -6,52 +6,29 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
 > Note that the recordings are in the Czech language 🇨🇿.
 
 ## Lessons
-1. Rust intro, syntax, Cargo, rustc
-    - [Lesson recording](https://www.youtube.com/watch?v=PDBT5dIVEfc&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=2&ab_channel=JakubBer%C3%A1nek)
-    - [Slides](lessons/01/slides.pdf)
-    - [Exercises](lessons/01/exercises)
+1. Rust intro, syntax, Cargo, rustc ([recording](https://www.youtube.com/watch?v=PDBT5dIVEfc&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=2&ab_channel=JakubBer%C3%A1nek), [slides](lessons/01/slides.pdf), [exercises](lessons/01/exercises))
 
-2. Structs, enums, pattern matching
-    - [Lesson recording](https://www.youtube.com/watch?v=oDvjXaP-2pU&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=2)
-    - [Exercises](lessons/02/exercises)
+2. Structs, enums, pattern matching ([recording](https://www.youtube.com/watch?v=oDvjXaP-2pU&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=2), [exercises](lessons/02/exercises))
 
-3. Ownership, borrowing, lifetimes
-    - [Lesson recording](https://www.youtube.com/watch?v=c8i9SKDfWDE&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=3)
-    - [Exercises](lessons/03/exercises)
+3. Ownership, borrowing, lifetimes ([recording](https://www.youtube.com/watch?v=c8i9SKDfWDE&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=3), [exercises](lessons/03/exercises))
 
-4. Polymorphism, traits, generic programming
-    - [Lesson recording](https://www.youtube.com/watch?v=IY4ejueecdQ&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=4)
-    - [Exercises](lessons/04/exercises)
+4. Polymorphism, traits, generic programming ([recording](https://www.youtube.com/watch?v=IY4ejueecdQ&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=4), [exercises](lessons/04/exercises))
 
-5. Smart pointers, interior mutability, closures
-    - [Lesson recording](https://www.youtube.com/watch?v=lGKSYne5DzM&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=5)
-    - [Exercises](lessons/05/exercises)
+5. Smart pointers, interior mutability, closures ([recording](https://www.youtube.com/watch?v=lGKSYne5DzM&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=5), [exercises](lessons/05/exercises))
 
-6. Extended traits (coherence check, orphan rule, object safety), error handling
-    - [Lesson recording](https://www.youtube.com/watch?v=XgTEIVbcTQ8&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=6)
-    - [Exercises](lessons/06/exercises)
+6. Extended traits (coherence check, orphan rule, object safety), error handling ([recording](https://www.youtube.com/watch?v=XgTEIVbcTQ8&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=6), [exercises](lessons/06/exercises))
 
-7. Parallelism, Send/Sync, atomics, locks, channels
-    - [Lesson recording](https://www.youtube.com/watch?v=CYAW4khk5Nc&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=7)
-    - [Exercises](lessons/07/exercises)
+7. Parallelism, Send/Sync, atomics, locks, channels ([recording](https://www.youtube.com/watch?v=CYAW4khk5Nc&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=7), [exercises](lessons/07/exercises))
 
-8. Networking, blocking I/O
-    - [Lesson recording](https://www.youtube.com/watch?v=6vZ5-1JrgLg&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=8)
-    - [Exercises](lessons/08/exercises)
+8. Networking, blocking I/O ([recording](https://www.youtube.com/watch?v=6vZ5-1JrgLg&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=8), [exercises](lessons/08/exercises))
 
-9. Networking, nonblocking I/O, epoll event loop
-    - [Lesson recording](https://www.youtube.com/watch?v=bnqtTknkpNo&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=9)
-    - [Exercises](lessons/09/exercises)
+9. Networking, nonblocking I/O, epoll event loop ([recording](https://www.youtube.com/watch?v=bnqtTknkpNo&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=9), [exercises](lessons/09/exercises))
 
-10. Async-await, Future, await transformation, Pin, tokio
-    - [Lesson recording](https://www.youtube.com/watch?v=4mGu6jwizWQ&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=10)
-    - [Exercises](lessons/10/exercises)
+10. Async-await, Future, await transformation, Pin, tokio ([recording](https://www.youtube.com/watch?v=4mGu6jwizWQ&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=10), [exercises](lessons/10/exercises))
 
-11. Unsafe, FFI, bindgen, cbindgen, PyO3
-    - [Lesson recording](https://www.youtube.com/watch?v=q39BW8gCGH4&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=11)
+11. Unsafe, FFI, bindgen, cbindgen, PyO3 ([recording](https://www.youtube.com/watch?v=q39BW8gCGH4&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=11))
 
-12. Rust project structure, open-source contribution
-    - [Lesson recording](https://www.youtube.com/watch?v=L_RLOucXUm0&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=12)
+12. Rust project structure, open-source contribution ([recording](https://www.youtube.com/watch?v=L_RLOucXUm0&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=12))
 
 ## Archive
 You can find past runs of the subject in the [archive](archive).
