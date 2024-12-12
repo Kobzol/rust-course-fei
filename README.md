@@ -50,9 +50,8 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
 11. Unsafe, FFI, bindgen, cbindgen, PyO3
     - [Lesson recording](https://www.youtube.com/watch?v=q39BW8gCGH4&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=11)
 
-13) Advent of Code, [open-source contribution](https://github.com/rust-lang/glob/pull/135)
-
-- [Lesson recording](https://www.youtube.com/watch?v=N5LlZ2L1Q3Y)
+12. Rust project structure, open-source contribution
+    - [Lesson recording](https://www.youtube.com/watch?v=L_RLOucXUm0&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=12)
 
 ## Archive
 You can find past runs of the subject in the [archive](archive).
