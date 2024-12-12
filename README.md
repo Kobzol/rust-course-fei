@@ -31,11 +31,9 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Lesson recording](https://www.youtube.com/watch?v=XgTEIVbcTQ8&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=6)
     - [Exercises](lessons/06/exercises)
 
-7) Assembly interpreter #4, hashmaps, macros, iterators
-
-- [Lesson recording](https://www.youtube.com/watch?v=CneaB0Qa374)
-- [Assembly interpreter, part 4](projects/assembly-interpret/04)
-- [Exercises](exercises/04)
+7. Parallelism, Send/Sync, atomics, locks, channels
+    - [Lesson recording](https://www.youtube.com/watch?v=CYAW4khk5Nc&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=7)
+    - [Exercises](lessons/07/exercises)
 
 8) Shell interpreter
 
