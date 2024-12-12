@@ -47,15 +47,8 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Lesson recording](https://www.youtube.com/watch?v=4mGu6jwizWQ&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=10)
     - [Exercises](lessons/10/exercises)
 
-11) Network chat (non-blocking operations, event loop)
-
-- [Lesson recording](https://www.youtube.com/watch?v=cNQMGrzZhKs)
-- [Network chat](projects/network-chat/03)
-
-12) Network chat (async/await, pinning)
-
-- [Lesson recording](https://www.youtube.com/watch?v=z49Ek7BOy50)
-- [Network chat](projects/network-chat/04)
+11. Unsafe, FFI, bindgen, cbindgen, PyO3
+    - [Lesson recording](https://www.youtube.com/watch?v=q39BW8gCGH4&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=11)
 
 13) Advent of Code, [open-source contribution](https://github.com/rust-lang/glob/pull/135)
 
