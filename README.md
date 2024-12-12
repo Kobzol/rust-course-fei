@@ -42,3 +42,7 @@ This subject takes inspiration from many other courses and online materials. A n
     - 5-day intensive Rust course from Google
 - [teach-rs](https://teach-rs.trifectatech.org/)
     - Modular university Rust course
+- [Rust exercises](https://rust-exercises.com/)
+    - 100 Rust exercises created by Mainmatter
+
+Some exercises in this repository were adapted from these materials.
