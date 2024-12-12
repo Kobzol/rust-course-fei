@@ -1,4 +1,4 @@
-# Programming in Rust course
+# Programming in Rust
 This repository contains materials for the [Programming in Rust](https://edison.sso.vsb.cz/cz.vsb.edison.edu.study.prepare.web/SubjectVersion.faces?version=460-4157/02&subjectBlockAssignmentId=545221&studyFormId=1&studyPlanId=26573&locale=en&back=true) subject taught at [FEI VŠB-TUO](https://www.fei.vsb.cz/en/).
 
 You can find the lessons recordings on [YouTube](https://www.youtube.com/playlist?list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU).
@@ -6,12 +6,12 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
 > Note that the recordings are in the Czech language 🇨🇿.
 
 ## Lessons
-1) Rust intro, syntax, Cargo, rustc
+1. Rust intro, syntax, Cargo, rustc
+    - [Lesson recording](https://www.youtube.com/watch?v=PDBT5dIVEfc&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=2&ab_channel=JakubBer%C3%A1nek)
+    - [Slides](lessons/01/slides.pdf)
+    - [Exercises](lessons/01/exercises)
 
-- [Lesson recording](https://www.youtube.com/watch?v=PDBT5dIVEfc&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=2&ab_channel=JakubBer%C3%A1nek)
-- [Slides](lessons/01/slides.pdf)
-
-2) Enums, ownership, pattern matching
+2. Enums, ownership, pattern matching
 
 - [Lesson recording](https://www.youtube.com/watch?v=VLvwuI-Nw9s)
 - [Exercises](exercises/02)
@@ -78,8 +78,8 @@ You can find past runs of the subject in the [archive](archive).
 This subject takes inspiration from many other courses and online materials. A non-exhaustive list is provided below.
 
 - [Software fundamentals](https://cese.ewi.tudelft.nl/software-fundamentals/)
-  - Rust course taugh at CESE, TU Delft
+    - Rust course taugh at CESE, TU Delft
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
-  - 5-day intensive Rust course from Google
+    - 5-day intensive Rust course from Google
 - [teach-rs](https://teach-rs.trifectatech.org/)
-  - Modular university Rust course
+    - Modular university Rust course
