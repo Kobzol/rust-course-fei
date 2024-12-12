@@ -43,10 +43,9 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Lesson recording](https://www.youtube.com/watch?v=bnqtTknkpNo&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=9)
     - [Exercises](lessons/09/exercises)
 
-10) Network chat (threads, reference-counting, synchronization)
-
-- [Lesson recording](https://www.youtube.com/watch?v=OduKSTpzwUM)
-- [Network chat](projects/network-chat/02)
+10. Async-await, Future, await transformation, Pin, tokio
+    - [Lesson recording](https://www.youtube.com/watch?v=4mGu6jwizWQ&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=10)
+    - [Exercises](lessons/10/exercises)
 
 11) Network chat (non-blocking operations, event loop)
 
