@@ -35,10 +35,9 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Lesson recording](https://www.youtube.com/watch?v=CYAW4khk5Nc&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=7)
     - [Exercises](lessons/07/exercises)
 
-8) Shell interpreter
-
-- [Lesson recording](https://www.youtube.com/watch?v=FQuyXAldPrI)
-- [Shell interpreter](projects/shell-interpret)
+8. Networking, blocking I/O
+    - [Lesson recording](https://www.youtube.com/watch?v=6vZ5-1JrgLg&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=8)
+    - [Exercises](lessons/08/exercises)
 
 9) Network chat (TCP/IP communication, message (de)serialization)
 
