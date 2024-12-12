@@ -15,9 +15,9 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Lesson recording](https://www.youtube.com/watch?v=oDvjXaP-2pU&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=2)
     - [Exercises](lessons/02/exercises)
 
-3) Borrowing, lifetimes
-
-- [Lesson recording](https://www.youtube.com/watch?v=0G-0pgQM8h0)
+3. Ownership, borrowing, lifetimes
+    - [Lesson recording](https://www.youtube.com/watch?v=c8i9SKDfWDE&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=3)
+    - [Exercises](lessons/03/exercises)
 
 4) Assembly interpreter #1
 
