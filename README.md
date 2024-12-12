@@ -19,10 +19,9 @@ You can find the lessons recordings on [YouTube](https://www.youtube.com/playlis
     - [Lesson recording](https://www.youtube.com/watch?v=c8i9SKDfWDE&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=3)
     - [Exercises](lessons/03/exercises)
 
-4) Assembly interpreter #1
-
-- [Lesson recording](https://www.youtube.com/watch?v=2RsHc4v9iRE)
-- [Assembly interpreter, part 1](projects/assembly-interpret/01)
+4. Polymorphism, traits, generic programming
+    - [Lesson recording](https://www.youtube.com/watch?v=IY4ejueecdQ&list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU&index=4)
+    - [Exercises](lessons/04/exercises)
 
 5) Assembly interpreter #2, strings
 
