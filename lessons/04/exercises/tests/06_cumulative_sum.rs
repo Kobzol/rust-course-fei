@@ -1,4 +1,4 @@
-//! Run this file with `cargo test --test 03_cumulative_sum`.
+//! Run this file with `cargo test --test 06_cumulative_sum`.
 
 //! TODO: Implement a struct called `CumulativeSum`, which will be generic over two types - a value
 //! type and an iterator over these value types. `CumulativeSum` will itself serve as an iterator,

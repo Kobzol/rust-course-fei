@@ -1,7 +1,8 @@
 # Programming in Rust
 This repository contains materials for the [Programming in Rust](https://edison.sso.vsb.cz/cz.vsb.edison.edu.study.prepare.web/SubjectVersion.faces?version=460-4157/02&subjectBlockAssignmentId=545221&studyFormId=1&studyPlanId=26573&locale=en&back=true) subject taught at [FEI VŠB-TUO](https://www.fei.vsb.cz/en/).
 
-You can find the lessons recordings on [YouTube](https://www.youtube.com/playlist?list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU).
+- [Lesson recordings](https://www.youtube.com/playlist?list=PLgoUJJFtqE9C8Ar_JgDBHQYrG-hHMlVyU)
+- [List of all exercises](lessons)
 
 > Note that the recordings are in the Czech language 🇨🇿.
 

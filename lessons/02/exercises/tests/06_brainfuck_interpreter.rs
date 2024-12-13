@@ -1,4 +1,4 @@
-//! Run this file with `cargo test --test 05_brainfuck_interpreter`.
+//! Run this file with `cargo test --test 06_brainfuck_interpreter`.
 
 // TODO (bonus): Create an interpreter for the [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) language.
 // The Brainfuck program will be parsed out of a string and represented as a struct.

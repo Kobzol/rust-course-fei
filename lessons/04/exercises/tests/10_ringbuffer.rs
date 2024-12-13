@@ -1,4 +1,4 @@
-//! Run this file with `cargo test --test 06_ringbuffer`.
+//! Run this file with `cargo test --test 10_ringbuffer`.
 
 //! TODO: Write a ringbuffer data structure.
 //!

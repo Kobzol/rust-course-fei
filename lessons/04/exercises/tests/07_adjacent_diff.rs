@@ -1,4 +1,4 @@
-//! Run this file with `cargo test --test 04_adjacent_diff`.
+//! Run this file with `cargo test --test 07_adjacent_diff`.
 
 //! TODO: Implement a function called `adjacent_diff`, which will receive a slice of numbers, and it will
 //! return an Iterator over the differences of adjacent numbers.

@@ -1,4 +1,4 @@
-//! Run this file with `cargo test --test 02_split_items`.
+//! Run this file with `cargo test --test 05_split_items`.
 
 //! TODO: Implement a struct called `SplitItems`, which will receive a string slice and a delimiter
 //! char in its constructor.

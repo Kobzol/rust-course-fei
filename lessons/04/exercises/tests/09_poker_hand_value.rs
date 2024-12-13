@@ -1,4 +1,4 @@
-//! Run this file with `cargo test --test 05_poker_hand_value`.
+//! Run this file with `cargo test --test 09_poker_hand_value`.
 
 //! TODO: let's play some poker :)
 //!
