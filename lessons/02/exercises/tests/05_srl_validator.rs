@@ -1,4 +1,4 @@
-//! Run this file with `cargo test --test 04_srl_validator`.
+//! Run this file with `cargo test --test 05_srl_validator`.
 
 // TODO: Implement a SRL (Simple Resource Locator) validator.
 // A SRL consists of two parts, an optional protocol (string) and an address (string).
