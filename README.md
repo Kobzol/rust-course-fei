@@ -47,3 +47,8 @@ This subject takes inspiration from many other courses and online materials. A n
     - 100 Rust exercises created by Mainmatter
 
 Some exercises in this repository were adapted from these materials.
+
+## License
+[MIT](LICENSE)
+
+But I am willing to also license the content under a different OSS/CC license, if there is demand. Please create an issue in this repo if you require a different license to reuse my materials.
