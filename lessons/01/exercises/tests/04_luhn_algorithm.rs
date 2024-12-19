@@ -15,7 +15,6 @@ mod tests {
 
     #[test]
     fn luhn_small_correct() {
-        assert!(luhn_algorithm(5));
         assert!(luhn_algorithm(18));
     }
 
