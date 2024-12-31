@@ -1,4 +1,4 @@
-//! Run this file with `cargo test --test 03_state_transition_enum`.
+//! Run this file with `cargo test --test 04_state_transition_enum`.
 
 // The #[derive] attribute enables nicer error messages in tests.
 // It will be explained in later weeks.
