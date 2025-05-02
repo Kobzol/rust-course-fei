@@ -5,7 +5,7 @@
 //! - `height`: return the height of the tree
 //! - `size`: return the number of items stored in the tree
 //! - `for_each_mut`: take a function that will be applied to each value stored in the tree. Note
-//!   that it should be possible to modify the values in the three using this function.
+//!   that it should be possible to modify the values in the tree using this function.
 //!   You will probably run into an ownership issue using the naive approach. Can you think of a way
 //!   how to make sure that the passed function can be used both for the left and the right child?
 //! - `insert`: insert a new item into the tree. This function will return a new tree containing the
