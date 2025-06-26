@@ -24,11 +24,11 @@
 /// The following modules were prepared for you. You should not need to modify them.
 ///
 /// Take a look at this file to see how should the individual messages be handled
-mod messages;
+pub mod messages;
 /// Message reading
-mod reader;
+pub mod reader;
 /// Message writing
-mod writer;
+pub mod writer;
 
 #[derive(Copy, Clone)]
 struct ServerOpts {
