@@ -30,11 +30,31 @@ fn sanitize(input: &str) -> &str {
 /// TODO: write tests for the `sanitize` function
 ///
 /// Bonus: can you find any bugs using the [proptest](https://proptest-rs.github.io/proptest/intro.html)
-/// crate?
-/// Note that you will probably need to run `cargo test` with the `PROPTEST_DISABLE_FAILURE_PERSISTENCE=1`
-/// environment variable to make proptest work for tests stored in the `tests` directory.
+/// crate? There is a commented-out example at the bottom of the `tests` module; uncomment it to
+/// get started.
 #[cfg(test)]
 mod tests {
     use super::sanitize;
 
+    // To solve the bonus task, uncomment the `proptest` dependency in `Cargo.toml` and the
+    // following example. Replace the sample property with your own properties. The explicit
+    // `failure_persistence` configuration stores failing seeds in
+    // `tests/06_write_tests.failures`, so they are replayed on the next run.
+    //
+    // use proptest::prelude::*;
+    // use proptest::test_runner::FileFailurePersistence;
+    //
+    // proptest! {
+    //     #![proptest_config(ProptestConfig {
+    //         failure_persistence: Some(Box::new(
+    //             FileFailurePersistence::WithSource("failures"),
+    //         )),
+    //         ..ProptestConfig::default()
+    //     })]
+    //
+    //     #[test]
+    //     fn sanitize_does_not_panic(s in "[a-zA-Z0-9]*") {
+    //         let _ = sanitize(&s);
+    //     }
+    // }
 }
